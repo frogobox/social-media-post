@@ -3,7 +3,7 @@
     ## Title
 
     <table>
-      <tr
+      <tr>
         <td><img width="300px" height="300px" src="corousel-post-1.png"></td> // Link Image Post
         <td><img width="300px" height="300px" src="corousel-post-2.png"></td>
         <td><img width="300px" height="300px" src="../empty-feed.png"></td> // Link Empty View
