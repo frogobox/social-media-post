@@ -1,10 +1,13 @@
-## Template README.md Instagram Feed
+## Template README.md Instagram Story
 
     ## Title
 
     <table>
       <tr>
-        <td><img width="200px" height="360px" src="docs/image/ss_image_1.png"></td>
+        <td><img width="200px" height="360px" src="story-post-1.png"></td>
+        <td><img width="200px" height="360px" src="story-post-2.png"></td>
+        <td><img width="200px" height="360px" src="story-post-3.png"></td>
+        <td><img width="200px" height="360px" src="../empty-story.png"></td> // Empty Story
       </tr>
     </table>
     
