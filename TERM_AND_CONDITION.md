@@ -20,8 +20,7 @@
 - Untuk pembayaran, bergantung dari content yang di berikan sesuai harga tiap post, semua akan di kalkulasi
 - Kalkulasi dimulai tanggal 1 dan berakhir di tgl 27
 - Pembayaran dilakukan setiap akhir bulan tepat tanggal 28 setelah kalkulasi postingan, (contoh kasus, hasil kalkulasi bulan mei, di bayarkan bulan juni dan seterusnya)
-- Minimal yang bisa dicairkan Rp 200.000
-- Maksimal yang bisa di dapatkan dari hasil kalkulasi Rp 1.000.000 tiap bulan, jika melebih nominal tersebut akan di akumulasikan ke bulan berikutnya
+- Hasil yang bisa dicairkan Rp 100.000 tiap bulan(10 Post), jika melebih nominal tersebut akan di akumulasikan ke bulan berikutnya
 
 ## Rules
 - Untuk repeated post story / post feed, kita tidak akan mengenai biaya tambahan dan tidak terhitung sebagai konten berbayar.
