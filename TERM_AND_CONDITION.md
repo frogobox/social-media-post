@@ -47,12 +47,9 @@
 - Umum
 
 ## Value Post Social Media
-### Feed 
-- Hari Besar : Rp. 5000 (Feed dan Story)
-- 1 Single Feed Post : Rp. 5000
-- 1 Corousel Feed Post : Rp. 5000 + tiap slide Rp. 1000 (jika 2 slide berarti 6000, berlaku kelipatan selanjutnya)
-### Story
-- 1 Story : Rp. 3000
+- Hari Besar : Rp. 3000 (Feed dan Story)
+- 1 Single Feed Post : Rp. 3000
+- 1 Corousel Feed Post : Rp. 3000 + tiap slide Rp. 1000 (jika 2 slide berarti 6000, berlaku kelipatan selanjutnya)
 
 ## Rules
 -	Semua design diterima dan tidak ada revisi
