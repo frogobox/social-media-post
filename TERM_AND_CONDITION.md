@@ -19,15 +19,11 @@
 ### Tema Teknologi / Programming / Designer
 - Ilmu Penunjang 
 - Info Lowongan pekerjaan
-- Berita terbaru dan trend
-- Info Update
+- Berita terbaru dan trend / Info Update
 - Motivasi
 - Tips and Trick
-- Meme
 - Tutorial
-- Jokes / Jokes Toxic / Jokes Penyemangat
-- Kegiatan Sehari - hari
-- Cara Menjadi
+- Cara Menjadi [HOW TO DRAW SOMETHING]
 - Background / Latar Belakang
 - Tools Kerja
 
